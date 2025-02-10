@@ -1,1 +1,1 @@
-/// <reference types="vite/client" />
+VITE_API_KEY = a3864f2c83124995bb33b36749b30374
